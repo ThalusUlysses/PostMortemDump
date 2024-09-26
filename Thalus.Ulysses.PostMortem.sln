@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thalus.Ulysses.PostMortem", "Thalus.Ulysses.PostMortem\Thalus.Ulysses.PostMortem.csproj", "{17054C79-5F84-4BA8-A70A-FDD828BE16E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thalus.Ulysses.PostMortem.TestApp", "Thalus.Ulysses.PostMortem.TestApp\Thalus.Ulysses.PostMortem.TestApp.csproj", "{9114841C-1559-421D-A47C-CA3A037855A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17054C79-5F84-4BA8-A70A-FDD828BE16E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17054C79-5F84-4BA8-A70A-FDD828BE16E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17054C79-5F84-4BA8-A70A-FDD828BE16E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17054C79-5F84-4BA8-A70A-FDD828BE16E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9114841C-1559-421D-A47C-CA3A037855A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9114841C-1559-421D-A47C-CA3A037855A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9114841C-1559-421D-A47C-CA3A037855A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9114841C-1559-421D-A47C-CA3A037855A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13BD53E-CD15-4EAC-92A2-2B4FBE3A461A}
+	EndGlobalSection
+EndGlobal
